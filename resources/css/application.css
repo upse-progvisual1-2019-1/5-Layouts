@@ -1,0 +1,27 @@
+.text-field {
+	-fx-text-fill: orange;
+	
+}
+
+
+
+.label {
+	-fx-text-fill: PINK;
+}
+
+.titulo {
+	-fx-font-size: 64px;
+	-fx-text-fill: WHITE;
+}
+
+.button {
+	-fx-background-color: 805D15;
+}
+
+.boton-importante {
+	-fx-background-color: RED;
+}
+
+#txtApellido {
+	-fx-text-fill: GREEN;
+}
